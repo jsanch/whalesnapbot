@@ -1,5 +1,5 @@
 <?php
-require_once("../src/snapchat.php");
+require_once("/var/www/html/whalesnapbot/src/snapchat.php");
 
 //////////// CONFIG ///////////
 $username = 'whales3000'; // Your snapchat username
